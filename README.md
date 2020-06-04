@@ -1,8 +1,8 @@
 # GIT
 
-## branching / version control
+## Branching / Version Control
 
-Most importang Git commands:
+### Most importang Git commands:
 
 * git config
 * git init
@@ -23,3 +23,10 @@ Most importang Git commands:
 * git push
 * git pull
 * git stash
+
+### My Branches in this Example
+
+* master
+* dev
+* features
+* bugfix
