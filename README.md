@@ -38,7 +38,7 @@
 #### Pull from Git
 
 ```git
-git pull
+$ git pull
 ```
 
 <img src="/image/gitPull.JPG"
@@ -49,7 +49,7 @@ git pull
 #### Add Changes / Commit / Push
 
 ```git
-git add -A
+$ git add -A
 ```
 
 <img src="/image/gitAdd_A.JPG"
@@ -58,7 +58,7 @@ git add -A
 
 
 ```git
-git commit -m "Add message"
+$ git commit -m "Add message"
 ```      
 <img src="/image/gitCommit_m.JPG"
      alt="git commit in console"
@@ -66,7 +66,7 @@ git commit -m "Add message"
 
 
  ```git
-git push
+$ git push
 ```    
 <img src="/image/gitPush.JPG"
      alt="git push in console"
@@ -76,7 +76,7 @@ git push
 #### Show all / Change Branch 
 
 ```git
-git branch -a
+$ git branch -a
 ```  
 <img src="/image/gitBranch_a.JPG"
      alt="git branch in console"
@@ -84,7 +84,7 @@ git branch -a
  
  
 ```git
-git checkout branchname
+$ git checkout branchname
 ``` 
  <img src="/image/gitCheckoutBugfix.JPG"
      alt="git checkout in console"
@@ -94,7 +94,7 @@ git checkout branchname
 #### Merge / Rebase Branch
 
 ```git
-git merge branchname
+$ git merge branchname
 ``` 
      
  <img src="/image/gitMergeBugfix.JPG"
@@ -111,7 +111,7 @@ git merge branchname
 
 
 ```git
-git rebase branchname
+$ git rebase branchname
 ``` 
 
 <img src="/image/gitRebaseBugfix.JPG"
@@ -122,7 +122,7 @@ git rebase branchname
 #### Status
 
 ```git
-git status
+$ git status
 ``` 
 
 <img src="/image/gitStatus.JPG"
@@ -138,7 +138,7 @@ git status
 #### Log
 
 ```git
-git log
+$ git log
 ``` 
 <img src="/image/gitLog.JPG"
      alt="git log in console"
@@ -149,7 +149,7 @@ git log
 
 
 ```git
-git cherry-pick hash_of_commit
+$ git cherry-pick hash_of_commit
 ``` 
 
 <img src="/image/gitCherryPick.JPG"
