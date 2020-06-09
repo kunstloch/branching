@@ -129,6 +129,22 @@ git status
      alt="git status in console"
      style="float: left; margin-right: 10px;" />
 
+<img src="/image/gitStatusAfterMerge.JPG"
+     alt="git status in console"
+     style="float: left; margin-right: 10px;" />
+
+
+
+#### Log
+
+```git
+git log
+``` 
+<img src="/image/gitLog.JPG"
+     alt="git log in console"
+     style="float: left; margin-right: 10px;" />    
+
+
 
 #### Git Network Graph
 
@@ -136,16 +152,3 @@ git status
      alt="git network graph"
      style="float: left; margin-right: 10px;" />
 
-
-<img src="/image/gitLog.JPG"
-     alt="git log in console"
-     style="float: left; margin-right: 10px;" />    
-
-     
-<img src="/image/gitStatusAfterMerge.JPG"
-     alt="git status in console"
-     style="float: left; margin-right: 10px;" />
-
-<img src="/image/gitPull.JPG"
-     alt="git pull in console"
-     style="float: left; margin-right: 10px;" />    
