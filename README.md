@@ -145,10 +145,22 @@ git log
      style="float: left; margin-right: 10px;" />    
 
 
+#### Cherry-pick
+
+
+```git
+git cherry-pick hash_of_commit
+``` 
+
+<img src="/image/gitCherryPick.JPG"
+     alt="git network graph"
+     style="float: left; margin-right: 10px;" />
+
+
 
 #### Git Network Graph
 
- <img src="/image/gitNetworkGraph.JPG"
+<img src="/image/gitNetworkGraph.JPG"
      alt="git network graph"
      style="float: left; margin-right: 10px;" />
 
