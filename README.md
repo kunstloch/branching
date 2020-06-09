@@ -37,6 +37,9 @@
 
 #### Add Changes / Commit / Push
 
+```git
+git add -A
+```
 
 <img src="/image/gitAdd_A.JPG"
      alt="git add in console"
