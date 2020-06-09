@@ -45,12 +45,16 @@ git add -A
      alt="git add in console"
      style="float: left; margin-right: 10px;" />
      
-      
+```git
+git commit -m "Add message"
+```      
 <img src="/image/gitCommit_m.JPG"
      alt="git commit in console"
      style="float: left; margin-right: 10px;" />    
      
-     
+ ```git
+git push
+```    
 <img src="/image/gitPush.JPG"
      alt="git push in console"
      style="float: left; margin-right: 10px;" />
