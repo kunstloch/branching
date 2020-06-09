@@ -60,11 +60,19 @@ git push
      style="float: left; margin-right: 10px;" />
      
     
-##### Change Branche    
+##### Show all / Change Branch 
+
+```git
+git branch -a
+```  
 <img src="/image/gitBranch_a.JPG"
      alt="git branch in console"
      style="float: left; margin-right: 10px;" />
-     
+ 
+ 
+ ```git
+git checkout branchname
+``` 
  <img src="/image/gitCheckoutBugfix.JPG"
      alt="git checkout in console"
      style="float: left; margin-right: 10px;" />
